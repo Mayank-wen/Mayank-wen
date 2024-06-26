@@ -16,8 +16,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-wen&radius=15&hide_border=true&theme=dracula" width="70%">
     <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=Mayank-wen&show_icons=true&theme=dracula&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
 </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mayank-Wen&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -27,4 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=Mayank-Wen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## Resume
+
+Checkout my [Resume here.](https://aiapply.co/r/667c5328c8747)
 
