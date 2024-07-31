@@ -10,6 +10,12 @@
 ### 🎓 Badges
 [![Credly Badge](https://images.credly.com/images/81fad72d-a948-409f-a979-0c1bf67b39ab/image.png)](https://www.credly.com/badges/fe8cc131-dca8-4764-afb2-40a05ffdb9d3/public_url) [![Credly Badge](https://images.credly.com/size/680x680/images/f864f5bf-1806-4753-b02b-d322e8dc560a/image.png)](https://www.credly.com/badges/fe8cc131-dca8-4764-afb2-40a05ffdb9d3/public_url)
 
+### 🌐 AWS Badges
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge 1" width="150" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge 2" width="150" />
+</p>
+
 # Statistics 📊
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mayank-wen&show_icons=true&theme=radical&hide_border=true&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Mayank-wen&theme=radical&hide_border=true&border_radius=10) |
@@ -27,4 +33,3 @@
 ## Resume
 
 Checkout my [Resume here.](https://aiapply.co/r/667c5328c8747)
-
