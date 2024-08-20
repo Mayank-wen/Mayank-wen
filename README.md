@@ -31,4 +31,4 @@
 
 ## Resume
 
-Checkout my [Resume here.](https://green-billye-17.tiiny.site)
+Checkout my [Resume here.](https://drive.google.com/file/d/1lyNuZaSUZ3mvWONLTD60EIqyjAU_17ZN/view?usp=sharing)
