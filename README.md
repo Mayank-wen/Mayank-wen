@@ -31,4 +31,4 @@
 
 ## Resume
 
-Checkout my [Resume here.](https://aiapply.co/r/667c5328c8747)
+Checkout my [Resume here.](https://green-billye-17.tiiny.site)
